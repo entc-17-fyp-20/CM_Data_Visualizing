@@ -1,7 +1,7 @@
 # CM_Data_Visualizing
 Wind turbine condition monitoring data visualizing
 
--PCTimeStamp - Date_Time
+- PCTimeStamp - Date_Time
 -Amp_Temp_Avg - Ambient_Temperature
 -Gear_bear_Temp_Avg -Bearing_Temperature
 -Gear_Oil_Temp_Avg -  Gear_Oil_Tempeature
