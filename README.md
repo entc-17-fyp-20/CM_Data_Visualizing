@@ -15,6 +15,7 @@ Wind turbine condition monitoring data visualizing
 - Voltage3
 - Hyd_Oil_Pressure_Avg - Hydrulic_Oil_Pressure
 - Hyd_Oil_Temp_Avg - Hydrulic_Oil_Temperature
+- Avg_Windspeed1 - Wind_Speed
 
  
 
