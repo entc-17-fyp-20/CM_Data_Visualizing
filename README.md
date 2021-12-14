@@ -5,7 +5,7 @@ Wind turbine condition monitoring data visualizing
 - Amp_Temp_Avg - Ambient_Temperature
 - Gear_bear_Temp_Avg - Gear_Bearing_Temperature
 - Gear_Oil_Temp_Avg - Gear_Oil_Tempeature
-- Gen_Bear_Temp_Avg - Generator_Bearing_Tempeature
+- Gen_Bear_Temp_Avg - Generator_Bearing_Temperature
 - Gen_RPM_Avg  - Generator_RPM
 - Grd_Prod_PstblePwr_Avg - Possible_Active_Power
 - Grd_Prod_Pwr_Avg -  Active_Power
@@ -17,5 +17,8 @@ Wind turbine condition monitoring data visualizing
 - Hyd_Oil_Temp_Avg - Hydrulic_Oil_Temperature
 - Avg_Windspeed1 - Wind_Speed
 
- 
 
+Dataset4.ipynb & MergingDatasets.ipynb - Creating necessary datasets from raw data
+Visualizing1.ipynb - for WindForce dataset
+Visualizing2.ipynb - for Canada dataset
+LogData.ipynb - For Canada dataset logs
